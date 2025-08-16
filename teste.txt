@@ -1,0 +1,1 @@
+teste git # cria um arquivo novo chamado teste.txt
